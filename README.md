@@ -12,6 +12,6 @@ L’ambientazione presenta uno scorcio di città intorno alla banca, in uno scen
 
 [<i class="icon-provider-github"></i> Documentation](https://github.com/Wemarcus/ProjectThief/raw/master/Documentation/Project%20Thief%20(AI%20documentation).pdf)
 
-[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!RE1RGZpS!_v3Bj8oqIhRVk0iqgKepV6iyBVdtM-blmJCjhBU81Dk)
+[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!4EkjGLwK!YdfZe1CDHI7BYmTmlDs1KdSntzBMTi7nzhw3_xjC-Zg)
 
 -------------

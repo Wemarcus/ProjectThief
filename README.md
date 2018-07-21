@@ -14,4 +14,11 @@ L’ambientazione presenta uno scorcio di città intorno alla banca, in uno scen
 
 [<i class="icon-provider-github"></i> Executable](https://mega.nz/#!4EkjGLwK!YdfZe1CDHI7BYmTmlDs1KdSntzBMTi7nzhw3_xjC-Zg)
 
+<i class="icon-user"></i> :space_invader: **Developers**
+-------------
+
+Marco Rusciano (https://www.linkedin.com/in/marcorusciano)
+Barbara Pagano (https://www.linkedin.com/in/barbara-pagano)
+Giovanni Mancinelli
+
 -------------

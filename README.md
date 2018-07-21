@@ -17,10 +17,10 @@ L’ambientazione presenta uno scorcio di città intorno alla banca, in uno scen
 <i class="icon-user"></i> :space_invader: **Developers**
 -------------
 
-Game Designer: Marco Rusciano (https://www.linkedin.com/in/marcorusciano)
+**Game Designer**: Marco Rusciano (https://www.linkedin.com/in/marcorusciano)
 
-Game Designer: Barbara Pagano (https://www.linkedin.com/in/barbara-pagano)
+**Game Designer**: Barbara Pagano (https://www.linkedin.com/in/barbara-pagano)
 
-Game Programmer: Giovanni Mancinelli
+**Game Programmer**: Giovanni Mancinelli
 
 -------------

@@ -18,7 +18,9 @@ L’ambientazione presenta uno scorcio di città intorno alla banca, in uno scen
 -------------
 
 Marco Rusciano (https://www.linkedin.com/in/marcorusciano)
+
 Barbara Pagano (https://www.linkedin.com/in/barbara-pagano)
+
 Giovanni Mancinelli
 
 -------------

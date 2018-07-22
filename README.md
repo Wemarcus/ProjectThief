@@ -4,6 +4,7 @@
 -------------
 
 "Project Thief" is a third-person stealth-action game based on the patience and skill of the player to avoid being detected by the enemy during the completion of the set goals.
+
 Set in a night scenery, its goal will be to rob as much money as possible from a supervised bank.
 
 <i class="icon-download"></i> :floppy_disk: **Downloads**
